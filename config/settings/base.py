@@ -39,7 +39,7 @@ DEFAULT_APP = [
 ]
 
 THIRD_PARTY_APPS = [
-
+    'authmk.apps.AuthmkConfig',
 ]
 
 LOCAL_APPS = [
